@@ -1,0 +1,23 @@
+
+# Environment Variables
+.env
+.env.*
+.env.assistant
+o365_token_assistant.txt
+o365_token.txt
+
+# Python caches
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Data directories (do not commit actual emails)
+data/
+downloads/
+
+# IDE files
+.vscode/
+.idea/
+
+# Misc
+*.log

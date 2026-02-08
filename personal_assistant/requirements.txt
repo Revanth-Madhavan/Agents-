@@ -1,0 +1,8 @@
+
+streamlit
+O365
+python-dotenv
+langchain-openai
+langchain-google-vertexai
+beautifulsoup4
+dateparser
