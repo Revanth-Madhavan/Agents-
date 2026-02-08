@@ -1,0 +1,22 @@
+
+# Environment Variables
+.env
+.env.*
+!.env.example
+
+# Python caches
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Data directories (do not commit actual documents)
+data/
+chroma_db/
+chroma_db_new/
+
+# IDE files
+.vscode/
+.idea/
+
+# Misc
+*.log
